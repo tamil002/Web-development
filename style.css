@@ -1,0 +1,139 @@
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+body{
+    background-color: rgb(231, 212, 212);
+}
+.p1{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    margin-left: 140px;
+    margin-right: 100px;
+    margin-bottom: 35px;
+}
+.tm-1{
+    margin-left: 190px;
+    display: flex;
+}
+.tm-2{
+    margin-left: 190px;
+    display: flex;
+}
+.h3{
+    text-align: center;
+    margin: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 33px;
+}
+.dev-1{
+    margin: 30px;
+}
+.n1{
+    font-weight: bold;
+    margin-left: 80px;
+    font-size: 25px;
+}
+.d1{
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+
+.im-1{
+    border: 0px solid;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+.dev-2{
+    margin: 30px;
+}
+.n2 {
+    font-weight: bold;
+    margin-left: 80px;
+    font-size: 25px;
+}
+
+.d2 {
+    margin-left: 50px;
+    font-size: 20px;
+}
+.dev-3{
+    margin: 30px;
+}
+.n3 {
+    font-weight: bold;
+    margin-left: 80px;
+    font-size: 25px;
+}
+
+.d3 {
+    margin-left: 50px;
+    font-size: 20px;
+}
+.im-2 {
+    border: 0px solid;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+.im-3 {
+    border: 0px solid;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+.N1{
+    font-weight: bold;
+    margin-left: 80px;
+    font-size: 25px
+}
+.D1{
+    margin-left: 58px;
+    font-size: 20px;
+}
+.N3 {
+    font-weight: bold;
+    margin-left: 85px;
+    font-size: 25px
+}
+
+.D3 {
+    margin-left: 63px;
+    font-size: 20px;
+}
+.N-1{
+    font-weight: bold;
+    margin-left: 85px;
+    font-size: 25px
+}
+.D-1{
+    margin-left: 94px;
+    font-size: 20px;
+}
+.N-2 {
+    font-weight: bold;
+    margin-left: 85px;
+    font-size: 25px
+}
+
+.D-2 {
+    margin-left: 90px;
+    font-size: 20px;
+}
+.N-3 {
+    font-weight: bold;
+    margin-left: 95px;
+    font-size: 25px
+}
+
+.D-3 {
+    margin-left: 94px;
+    font-size: 20px;
+}
+
